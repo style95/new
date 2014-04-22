@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sat Mar 29 09:15:39 KST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0145-0b31-1ac7-00000189a0f8 
+on database directory /Users/moon/Projects/zeppelin/metastore_db  with class loader java.net.URLClassLoader@1745c55d 
+Loaded from file:/Users/moon/Projects/zeppelin/bin/../drivers/hive/derby-10.8.1.2.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_65-b14-462-11M4609
+user.dir=/Users/moon/Projects/zeppelin/bin
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
